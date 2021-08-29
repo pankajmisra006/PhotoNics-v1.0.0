@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aldrich</item>
+        <item>@font/allura</item>
+        <item>@font/arizonia</item>
+        <item>@font/baloo_bhai</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/calligraffitti</item>
+        <item>@font/ramabhadra</item>
+        <item>@font/roboto_italic</item>
+        <item>@font/roboto_mono_bold</item>
+        <item>@font/roboto_mono_italic</item>
+        <item>@font/roboto_mono_thin</item>
+    </array>
+</resources>
